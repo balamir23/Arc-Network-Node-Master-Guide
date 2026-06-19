@@ -1,3 +1,5 @@
+📖 Full Installation Guide:
+[Node Installation Guide](docs/node-installation-guide.md)
 # Arc Network Node Master Guide
 
 A complete beginner-friendly guide for running an Arc Network node.
